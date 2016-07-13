@@ -43,6 +43,21 @@
     <div class="center3">
         <img src="http://www.runoob.com/images/transforms.gif" alt="CSS3 乐园"/>
     </div>
+
+    <br/>
+    <br/>
+    <br/>
+
+    <h4>静态页 demo</h4>
+    <div>
+        <a href="/ejz/demo/ejz_fx/2.0/index.html" target="_blank">抢单宝 V2.0</a>
+    </div>
+
+    <br/>
+    <div>
+        <a href="/ejz/demo/ejz_fx/2.0/anut-hall.html" target="_blank">阿姨大厅</a>
+    </div>
+
 </div>
 
 </body>
