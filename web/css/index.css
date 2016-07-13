@@ -1,0 +1,35 @@
+.container1 {
+    width: 1440px;
+    height: 900px;
+}
+
+.container2 {
+    width: auto;
+    height: auto;
+}
+
+.center1 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.center2 {
+    text-align: center;
+}
+
+.center3 {
+    vertical-align: middle;
+}
+
+.span1 {
+    color: blue;
+}
+
+.span2 {
+    color: red;
+    font-size: 30px;
+}
+
+.span3 {
+    color: blue;
+}
