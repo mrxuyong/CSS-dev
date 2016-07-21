@@ -45,6 +45,12 @@
     </div>
 
     <br/>
+
+    <div class="center2">
+        <img src="/images/index-page/JS-step.jpg" alt="CSS3 乐园"/>
+    </div>
+
+    <br/>
     <br/>
     <br/>
 
